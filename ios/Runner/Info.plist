@@ -4,6 +4,12 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>NSCameraUsageDescription</key>
+    <string>This app requires camera access to take photos.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>This app requires photo library access to select images.</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>This app requires photo library access to save images.</string>
 	<key>CFBundleDisplayName</key>
 	<string>Supercoder</string>
 	<key>CFBundleExecutable</key>
